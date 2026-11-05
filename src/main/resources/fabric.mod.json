@@ -19,9 +19,7 @@
       "com.example.TemplateMod"
     ]
   },
-  "mixins": [
-    "template.mixins.json"
-  ],
+  "mixins": [],
   "accessWidener": "template.ct",
   "depends": {
     "fabricloader": ">=${loader}",
