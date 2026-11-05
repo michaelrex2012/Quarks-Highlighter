@@ -1,4 +1,4 @@
-mod.id = "quark.highlighter"
+mod.id = "quarks_highlighter"
 mod.name = "Quark's Highlighter"
 mod.group = "quark.highlighter"
 mod.version = "1.0.0"
